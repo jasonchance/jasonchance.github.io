@@ -3,17 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jasonchance.github.io/welcome/</loc>
+    <lastmod>2018-02-12T18:31:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonchance.github.io/post/first/</loc>
+    <lastmod>2018-02-12T17:59:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonchance.github.io/about/</loc>
+    <lastmod>2018-02-12T17:59:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonchance.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jasonchance.github.io/</loc>
+    <lastmod>2018-02-12T18:31:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jasonchance.github.io/post/</loc>
+    <lastmod>2018-02-12T17:59:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasonchance.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

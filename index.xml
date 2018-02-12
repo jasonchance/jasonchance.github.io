@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Jason Chance</title>
+    <link>https://jasonchance.github.io/</link>
+    <description>Recent content on Jason Chance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 18:31:10 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonchance.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://jasonchance.github.io/welcome/</link>
+      <pubDate>Mon, 12 Feb 2018 18:31:10 +0800</pubDate>
+      
+      <guid>https://jasonchance.github.io/welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://jasonchance.github.io/post/first/</link>
+      <pubDate>Mon, 12 Feb 2018 17:59:53 +0800</pubDate>
+      
+      <guid>https://jasonchance.github.io/post/first/</guid>
+      <description> Hello Hugo  aaa bbb ccc ddd eee  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jasonchance.github.io/about/</link>
+      <pubDate>Mon, 12 Feb 2018 17:59:31 +0800</pubDate>
+      
+      <guid>https://jasonchance.github.io/about/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
